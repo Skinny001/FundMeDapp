@@ -31,6 +31,9 @@ FundMe is a crowdfunding smart contract deployed on the XDC Apothem testnet. It 
 - **Chain ID:** `51`
 - **Tool:** Foundry
 
+  ## Wallet conection 
+- APPkit using RPC for XDC with the chain ID
+
 ## ABI
 
 See `out/FundMe.sol/FundMe.json` for the full ABI.
